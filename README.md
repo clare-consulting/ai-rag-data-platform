@@ -1,21 +1,64 @@
-# AI RAG Data Platform
+##### \# AI RAG Data Platform
 
-Retrieval-Augmented Generation platform demonstrating:
+##### 
 
-- Document ingestion
-- Text chunking
-- Embedding generation
-- Vector similarity search
-- LLM-powered question answering
+##### A Retrieval-Augmented Generation platform demonstrating modern AI and data engineering patterns.
 
-## Architecture
+##### 
 
-Document -> Chunking -> Embeddings -> Vector Store -> Retrieval -> LLM Response
+##### \## Overview
 
-## Technologies
+##### 
 
-- Python
-- OpenAI
-- Vector Search
-- Data Engineering Patterns
-- GitHub Actions (future)
+##### This project provides an end-to-end framework for:
+
+##### 
+
+##### \- Document ingestion
+
+##### \- Text chunking
+
+##### \- Embedding generation
+
+##### \- Vector similarity search
+
+##### \- LLM-powered question answering
+
+##### 
+
+##### \## Architecture
+
+##### 
+
+##### ```text Documents -> Chunking -> Embeddings -> Vector Store -> Retrieval -> LLM Response
+
+##### 
+
+##### \## Technologies
+
+##### Python
+
+##### OpenAI
+
+##### Vector Search
+
+##### Data Engineering Patterns
+
+##### GitHub Actions (future)
+
+
+
+##### \## Roadmap
+
+##### Add PDF ingestion
+
+##### Add local document chunking
+
+##### Add embedding generation
+
+##### Add vector search
+
+##### Add Streamlit demo app
+
+##### Add Databricks integration
+
